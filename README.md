@@ -1,1 +1,5 @@
-# 05C_Compilers_16S01_Rust_Frontend
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
